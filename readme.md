@@ -1,6 +1,10 @@
 # GifLinks
 
-A simple javascript library used for adding full screen gif action as a hover effect. This is very serious stuff, [here's a demo](http://tholman.com/giflinks)! You can also play with the source [live on CodePen](http://codepen.io/tholman/pen/gJBdi).
+A simple javascript library used for adding full screen gif action as a hover effect. 
+
+I used it to showcase some previous apps I designed and built for Sydney Uni.
+
+https://soxface.github.io/projectGifs/demo/
 
 ### License
 
